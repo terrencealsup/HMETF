@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{JT}
+N.~Jegadeesh and S.~Titman.
+\newblock Returns to buying winners and selling losers: Implications for stock
+  market efficiency.
+\newblock {\em Journal of Finance}, 48(1):65--91, 1993.
+
+\bibitem{MOP}
+T.~Moskowitz, Y.~Ooi, and L.~Pedersen.
+\newblock Time series momentum.
+\newblock {\em Journal of Financial Economics}, 104:228--250, 2012.
+
+\bibitem{Ang}
+A.~Ang.
+\newblock {\em Asset Management: A Systematic Approach to Factor Investing}.
+\newblock Financial Management Association Survey and Synthesis Series. Oxford
+  University Press, 2014.
+
+\bibitem{DM}
+K.~Daniel and T.~Moskowitz.
+\newblock Momentum crashes.
+\newblock {\em Journal of Financial Economics}, 122:221--247, 2016.
+
+\bibitem{MvO}
+M.~Martens and A.~van Oord.
+\newblock Hedging the time-varying risk exposures of momentum returns.
+\newblock {\em Journal of Empirical Finance}, 28:78--89, 2014.
+
+\bibitem{FFDataSite}
+{Kenneth French's} data library.
+\newblock
+  \url{http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html}.
+
+\end{thebibliography}
